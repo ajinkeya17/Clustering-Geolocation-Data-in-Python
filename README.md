@@ -1,6 +1,6 @@
 # Clustering-Goelocation-Data-in-Python
 ## AIM: Identifying locations to build taxi service stations in Johannesburg based on Geolocation data using clustering based ML algorithms.
-i.e Given an extensive dataset of taxi cab stop hubs in the city of Johannesburg we had to identify ideal locations to construct taxi service stations throughout the city.
+Given an extensive dataset of taxi cab stop hubs in the city of Johannesburg we had to identify ideal locations to construct taxi service stations throughout the city.
 
 ### Steps Performed in the jupyter notebook:
 
